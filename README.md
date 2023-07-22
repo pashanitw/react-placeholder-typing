@@ -32,6 +32,27 @@ const Example = () => {
     />
 }
 ```
+...
+
+## Props
+
+| Property       | Type     | Default | Description                                                          |
+|----------------|----------|---------|----------------------------------------------------------------------|
+| placeholders   | array    | []      | An array of placeholder texts to display in the typing animation.    |
+| value          | string   | ""      | The current input value.                                             |
+| onChange       | function | null    | Callback function that is called when the input value changes.       |
+| fontFamily     | string   | "Arial" | The font family for the input field.                                 |
+| renderIcon     | function | null    | A function that returns a JSX element to be used as the input icon.  |
+| containerStyle | object   | {}      | style of the container if you want to modify the wrapper styles      |
+| inputStyle     | object   | {}      | style of the input element if you want to modify the inputbox styles |
+
+## Demo
+
+![Demo GIF](https://im3.ezgif.com/tmp/ezgif-3-bf9cfa78f3.gif)
+
+## License
+
+MIT © [pashanitw](https://github.com/pashanitw)
 
 ## License
 
