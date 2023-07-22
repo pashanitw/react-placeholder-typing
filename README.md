@@ -1,3 +1,7 @@
+## Demo
+
+![Demo GIF](demo.gif)
+
 # react-typing-effect
 
 >The react-placeholder-typing is a customizable React component that displays an animated typing and deleting effect for placeholder text within an input field. The placeholders cycle through a list of specified URLs, creating a typewriter or keyboard typing animation. The component accepts an icon and font family as customizable props, making it flexible for use in various projects and styles. Ideal for enhancing user interface and experience in projects where input fields are used."
@@ -50,9 +54,6 @@ const Example = () => {
 | containerStyle | object   | {}      | style of the container if you want to modify the wrapper styles      |
 | inputStyle     | object   | {}      | style of the input element if you want to modify the inputbox styles |
 
-## Demo
-
-![Demo GIF](https://im3.ezgif.com/tmp/ezgif-3-bf9cfa78f3.gif)
 
 ## License
 
