@@ -9,6 +9,10 @@
 ```bash
 npm install --save react-placeholder-typing
 ```
+or with yarn
+```bash
+yarn add react-placeholder-typing
+```
 
 ## Usage
 
